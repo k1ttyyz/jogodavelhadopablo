@@ -1,0 +1,9 @@
+body {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #FFFFFF url("https://img.itch.zone/aW1nLzExMzk2MTExLmdpZg==/original/HPah7q.gif") no-repeat;
+  background-size: 1400px 700px;
+  font-family: sans-serif;
+}
