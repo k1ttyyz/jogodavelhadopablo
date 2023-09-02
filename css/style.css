@@ -1,4 +1,6 @@
-body {
+
+  
+  body {
     height: 100vh;
     display: flex;
     align-items: center;
@@ -6,19 +8,22 @@ body {
     background: #FFFFFF url("https://img.itch.zone/aW1nLzExMzk2MTExLmdpZg==/original/HPah7q.gif") no-repeat;
   background-size: 1400px 700px;
   font-family: sans-serif;
+ 
 }
-
-
-main{
+  
+  main {
     display: flex;
     flex-direction: column;
-}
+
+  }
   
   h1 {
     text-align: center;
     color: white;
   }
+  
 
+  
   .jogodavelhadopablo {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
@@ -38,4 +43,7 @@ main{
     box-shadow: 10px 5px 5px rgb(0, 0, 0);
     border: solid white;
 }
+
+
+
 
