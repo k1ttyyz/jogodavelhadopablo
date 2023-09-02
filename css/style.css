@@ -18,3 +18,24 @@ main{
     text-align: center;
     color: white;
   }
+
+  .jogodavelhadopablo {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    border: solid white;
+    background-image: linear-gradient(to right, rgb(0, 132, 255) , rgb(199, 242, 245));
+    border-radius: 10px;
+  }
+  
+  .jogodavelhadopablo button {
+    width: 100px;
+    height: 100px;
+    margin: 5px;
+   border-radius: 10px;
+    font-size: 30px;
+    background-color: lightblue;
+    opacity: 0.6;
+    box-shadow: 10px 5px 5px rgb(0, 0, 0);
+    border: solid white;
+}
+
