@@ -4,3 +4,6 @@ window.onload = () => {
         navigator.serviceWorker.register("./sw.js");
     }
 };
+
+let selecionado;
+let jogador = "X";
