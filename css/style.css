@@ -7,3 +7,14 @@ body {
   background-size: 1400px 700px;
   font-family: sans-serif;
 }
+
+
+main{
+    display: flex;
+    flex-direction: column;
+}
+  
+  h1 {
+    text-align: center;
+    color: white;
+  }
